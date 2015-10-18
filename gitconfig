@@ -1,0 +1,9 @@
+[user]
+	name = Matthew Bauer
+	email = mjbauer95@gmail.com
+[color]
+	ui = auto
+[push]
+	default = simple
+[oh-my-zsh]
+	hide-status = 1
